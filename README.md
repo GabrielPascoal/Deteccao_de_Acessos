@@ -29,5 +29,4 @@ Execute o projeto
 python seu_script.py 
 
 ## Autores
-Gabriel Guilherme Pascoal
-Kaue Borges Nascimento
+Gabriel Guilherme Pascoal / Kaue Borges Nascimento
