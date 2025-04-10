@@ -23,10 +23,10 @@
    venv\Scripts\activate     # Windows
 
 3. Instalar as Dependências:
-   pip install -r requirements.txt
+   pip install numpy pandas matplotlib seaborn scikit-learn tabulate colorama ipython
 
 Execute o projeto
-python seu_script.py 
+python codigo.py 
 
 ## Autores
 Gabriel Guilherme Pascoal / Kaue Borges Nascimento
