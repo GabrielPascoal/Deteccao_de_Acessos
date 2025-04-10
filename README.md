@@ -14,8 +14,8 @@
 ## Instruções de Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/gabrielpascoal/deteccao_de_acessos.git
+   cd deteccao_de_acessos
 
 2. Crie um Ambiente Virtual:
    python -m venv venv
